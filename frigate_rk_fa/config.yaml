@@ -35,6 +35,7 @@ host_network: false
 tmpfs: true
 usb: true
 video: true
+devicetree: true
 full_access: true
 privileged:
   - PERFMON
